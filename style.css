@@ -112,3 +112,7 @@ button:hover span{
 button:hover {
    border: none;
 }
+
+.btn-submit {
+   display: inline;
+}
